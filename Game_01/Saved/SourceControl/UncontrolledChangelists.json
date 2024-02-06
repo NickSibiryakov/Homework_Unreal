@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/Game_01/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/Unreal Projects/Game_01/Content/Developers/nikit/Collections/BP_WeaponBase.uasset",
+				"E:/Unreal Projects/Game_01/Content/AI/ZombieController.uasset",
+				"E:/Unreal Projects/Game_01/Content/AI/ZombieCharacter.uasset",
+				"E:/Unreal Projects/Game_01/Content/AI/ZombieBT.uasset",
+				"E:/Unreal Projects/Game_01/Content/AI/ZombieBB.uasset",
+				"E:/Unreal Projects/Game_01/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Unreal Projects/Game_01/Content/AI/FindRandomLocation.uasset",
+				"E:/Unreal Projects/Game_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CP/MFREFTW28V2S5MWP0BZ1UG.uasset",
+				"E:/Unreal Projects/Game_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BK/5Z6NIT0PADE7SBVTQEG8LF.uasset",
+				"E:/Unreal Projects/Game_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/HB/HDLMLXP1H0LT5LNI6ULBJ0.uasset",
+				"E:/Unreal Projects/Game_01/Content/Developers/nikit/BP_WeaponBase.uasset"
+			]
+		}
+	]
+}
