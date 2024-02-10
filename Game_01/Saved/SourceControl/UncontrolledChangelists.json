@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Otus-Unreal-Repository/Homework_Unreal/Game_01/Content/FirstPerson/Blueprints/WBP_HUD.uasset",
+				"E:/Otus-Unreal-Repository/Homework_Unreal/Game_01/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Otus-Unreal-Repository/Homework_Unreal/Game_01/Content/NewActorComponent.uasset",
+				"E:/Otus-Unreal-Repository/Homework_Unreal/Game_01/Content/Cube_Blueprint.uasset",
 				"E:/Unreal Projects/Game_01/Content/StarterContent/Audio/Collapse01.uasset",
 				"E:/Unreal Projects/Game_01/Content/Developers/nikit/Collections/BP_WeaponBase.uasset",
 				"E:/Unreal Projects/Game_01/Content/AI/ZombieController.uasset",
